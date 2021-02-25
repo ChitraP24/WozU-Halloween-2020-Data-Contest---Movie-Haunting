@@ -1,7 +1,10 @@
-# WozU-Halloween-2020-Data-Contest---Movie-Haunting
-
 Movie Haunting 
 
-Overview:
+##Overview:
+Is there any correlation between following variables? 
+- Review Ratings
+- Release Countries 
+- Genres
+- Movie Run Times
+  
 
-Questions:
